@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <b>Native apps and real-time telemetry for BMW iDrive 7 &amp; 8 head units.</b><br>
-  Installed and updated directly from the car through the MGU Store.
+  <b>For-fun hobby experiments for BMW iDrive 7 &amp; 8 head units.</b><br>
+  Weekend telemetry &amp; screen apps, installed and updated directly from the car through the MGU Store.
 </p>
 
 <p align="center">
   <a href="https://github.com/idrive-labs/sideways/releases/latest"><img src="https://img.shields.io/github/v/release/idrive-labs/sideways?label=Sideways&style=for-the-badge&color=1f6feb" alt="Sideways latest release"></a>
   <a href="https://github.com/idrive-labs/mgu-apps"><img src="https://img.shields.io/badge/MGU%20Store-idrive--labs%2Fmgu--apps-0969da?style=for-the-badge" alt="MGU Store source"></a>
-  <img src="https://img.shields.io/badge/BMW-iDrive%207%20%26%208-111111?style=for-the-badge&logo=bmw&logoColor=white" alt="iDrive 7 and 8">
+  <img src="https://img.shields.io/badge/Project-For%20Fun%20%2F%20Hobby-24292f?style=for-the-badge" alt="For Fun Hobby">
 </p>
 
 ---
@@ -35,10 +35,10 @@
 | Repository | Description |
 |---|---|
 | **[idrive-labs/sideways](https://github.com/idrive-labs/sideways)** | Drift telemetry, Kalman-filtered slip estimation, OpenGL ES 3D replay engine &amp; cloud leaderboard |
-| **[idrive-labs/mgu-apps](https://github.com/idrive-labs/mgu-apps)** | Official MGU Store app catalog &amp; release distribution source |
+| **[idrive-labs/mgu-apps](https://github.com/idrive-labs/mgu-apps)** | MGU Store app catalog &amp; release distribution source |
 
 ---
 
 <p align="center">
-  <sub>Built by <a href="https://github.com/jarnesence">Járn</a> · Unofficial. Not affiliated with or endorsed by BMW AG.</sub>
+  <sub>Built for fun by <a href="https://github.com/jarnesence">Járn</a> · Unofficial hobby project. Not affiliated with or endorsed by BMW AG.</sub>
 </p>
