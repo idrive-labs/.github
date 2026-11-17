@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" alt="iDrive Labs: apps for the screens of your BMW" width="100%">
+  <img src="img/banner-sakura.jpg" alt="iDrive Labs: BMW iDrive 7 & 8 telemetry and MGU apps" width="100%">
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/idrive-labs/sideways/releases/latest"><img src="https://img.shields.io/github/v/release/idrive-labs/sideways?label=Sideways&style=for-the-badge&color=1f6feb" alt="Sideways latest release"></a>
-  <a href="https://github.com/idrive-labs/mgu-apps"><img src="https://img.shields.io/badge/MGU%20Store-idrive--labs%2Fmgu--apps-0969da?style=for-the-badge" alt="MGU Store source"></a>
-  <img src="https://img.shields.io/badge/Project-For%20Fun%20%2F%20Hobby-24292f?style=for-the-badge" alt="For Fun Hobby">
+  <a href="https://github.com/idrive-labs/sideways/releases/latest"><img src="https://img.shields.io/github/v/release/idrive-labs/sideways?label=Sideways&style=for-the-badge&color=231f28&logo=bmw&logoColor=f3b8c8" alt="Sideways latest release"></a>
+  <a href="https://github.com/idrive-labs/mgu-apps"><img src="https://img.shields.io/badge/MGU%20Store-idrive--labs%2Fmgu--apps-231f28?style=for-the-badge&logo=github&logoColor=f3b8c8" alt="MGU Store source"></a>
+  <img src="https://img.shields.io/badge/Hobby-For%20Fun-231f28?style=for-the-badge&logoColor=f3b8c8" alt="For Fun Hobby">
 </p>
 
 ---
